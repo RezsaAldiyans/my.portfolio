@@ -1,0 +1,7 @@
+.text-slider-items { 
+    display: none; 
+} 
+
+h1 .text{
+    display: inline;
+}
